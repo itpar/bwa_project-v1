@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967819713122",
+    "project_id": "sewaaja-cbf97",
+    "storage_bucket": "sewaaja-cbf97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967819713122:android:88f8e6db586bc5f9ac4f3b",
+        "android_client_info": {
+          "package_name": "com.example.bwa_flutix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967819713122-98uv8simkogj32acd1s8ce276tc2s1pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQy3YZA4MSsHX_rOMQVkV7xNs1YsQUmMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967819713122-98uv8simkogj32acd1s8ce276tc2s1pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
